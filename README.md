@@ -1,3 +1,8 @@
+**Name:** SIVA VENKATESH M
+**COMPANY:** CODETECH IT SOLUTIONS
+**ID:** CT08DS2719
+**DOMAIN:** DATA SCIENCE
+
 # CODTECH-DS-Task1
 # NLP-Task
 ## Customer Review Sentiment Analysis Project
